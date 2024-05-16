@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ushani Chathushka</h1>
 <img align="right" alt="coding" width="1000" src="https://github.com/UshaniChathushka/UshaniChathushka/blob/main/Blue%20Modern%20Elegant%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.png">
+<br>
 <h3 align="justify" style="font-family: Montserrat; margin-top: 0;">
   Hello! I'm Ushini Chathushka, currently pursuing a BSc (Hons) in Software Engineering at the University of Plymouth in the UK. I am passionate about software development and possess strong business development skills. My effective communication in English allows me to collaborate seamlessly with diverse teams and stakeholders. I aim to leverage my software development expertise and business acumen to drive innovative projects and contribute to the growth of technology-driven businesses. I believe that my unique blend of technical and business skills makes me a valuable asset in the tech industry.
 </h3>
