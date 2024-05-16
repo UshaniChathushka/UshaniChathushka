@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ushani Chathushka</h1>
+<img align="right" alt="coding" width="400" src="https://github.com/UshaniChathushka/UshaniChathushka/blob/main/Blue%20Modern%20Elegant%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.png">
 <h3 align="center">I'm software developer and undergraduate software engineer at university of Plymouth in UK.</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.canva.com/design/DAGFZhcGzBc/UW7Yvewe-19ovcgxB2d3ug/edit?utm_content=DAGFZhcGzBc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ushanichathushka&label=Profile%20views&color=0e75b6&style=flat" alt="ushanichathushka" /> </p>
 
